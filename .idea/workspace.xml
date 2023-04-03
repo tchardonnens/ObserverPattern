@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46b74cbe-23d4-4349-978d-2c4e2b636ca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/isep/IObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isep/IPublisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isep/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isep/MessagePublisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isep/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/MessagePublisherTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/isep/IPublisher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/isep/IPublisher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/isep/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/isep/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled104.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled104.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,13 +92,18 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MessagePublisherTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.isep.Main" />
       <module name="untitled104" />
@@ -108,6 +114,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MessagePublisherTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.MessagePublisherTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MessagePublisherTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -118,6 +145,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680457652338</updated>
       <workItem from="1680457653666" duration="1094000" />
+      <workItem from="1680555694856" duration="1802000" />
     </task>
     <servers />
   </component>
@@ -134,5 +162,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
